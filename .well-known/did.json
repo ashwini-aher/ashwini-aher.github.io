@@ -15,7 +15,7 @@
             "publicKeyBase58": "GtP7NCHMs4zLMmPE8c8iNwZUbdMWnEZhNg4q7eXKwvcP"
         }
     ],
-      "assertionMethod": [
+    "assertionMethod": [
         "did:web:ashwini-aher.github.io#key-1"
-    ],
+    ]
 }
