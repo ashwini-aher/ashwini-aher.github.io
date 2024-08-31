@@ -1,1 +1,21 @@
-{"id":"did:web:ashwini-aher.github.io","@context":["https://w3id.org/did/v1","https://w3id.org/security/suites/ed25519-2018/v1"],"authentication":["did:web:ashwini-aher.github.io#key-1"],"assertionMethod":["did:web:ashwini-aher.github.io#key-1"],"verificationMethod":[{"id":"did:web:ashwini-aher.github.io#key-1","type":"Ed25519VerificationKey2018","controller":"did:web:ashwini-aher.github.io","publicKeyBase58":"6GQd1wHm1t9PCAWFXrfr7xcjieb1DLcJGCXCQz6gfqiw"}]}
+{
+    "id": "did:web:ashwini-aher.github.io",
+    "@context": [
+        "https://w3id.org/did/v1",
+        "https://w3id.org/security/suites/ed25519-2018/v1"
+    ],
+    "authentication": [
+        "did:web:ashwini-aher.github.io#key-1"
+    ],
+    "assertionMethod": [
+        "did:web:ashwini-aher.github.io#key-1"
+    ],
+    "verificationMethod": [
+        {
+            "id": "did:web:ashwini-aher.github.io#key-1",
+            "type": "Ed25519VerificationKey2018",
+            "controller": "did:web:ashwini-aher.github.io",
+            "publicKeyBase58": "6GQd1wHm1t9PCAWFXrfr7xcjieb1DLcJGCXCQz6gfqiw"
+        }
+    ]
+}
