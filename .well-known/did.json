@@ -7,15 +7,12 @@
     "authentication": [
         "did:web:ashwini-aher.github.io#key-1"
     ],
-    "assertionMethod": [
-        "did:web:ashwini-aher.github.io#key-1"
-    ],
     "verificationMethod": [
         {
             "id": "did:web:ashwini-aher.github.io#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:ashwini-aher.github.io",
-            "publicKeyBase58": "6GQd1wHm1t9PCAWFXrfr7xcjieb1DLcJGCXCQz6gfqiw"
+            "publicKeyBase58": "HHmXDi8w1J4a2icAeX21JTbSxucScCNakzpcEGPX5qS7"
         }
     ]
 }
