@@ -15,7 +15,7 @@
             "id": "did:web:ashwini-aher.github.io#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:ashwini-aher.github.io",
-            "publicKeyBase58": "6GQd1wHm1t9PCAWFXrfr7xcjieb1DLcJGCXCQz6gfqiw"
+            "publicKeyBase58": "F5LSuhocCDb9DxyKzP831JMboVurUMCY6G9knDXoer6p"
         }
     ]
 }
