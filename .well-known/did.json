@@ -1,21 +1,18 @@
 {
-    "id": "did:web:ashwini-aher.github.io",
+    "id": "did:web:abc.abc.com",
     "@context": [
         "https://w3id.org/did/v1",
         "https://w3id.org/security/suites/ed25519-2018/v1"
     ],
     "authentication": [
-        "did:web:ashwini-aher.github.io#key-1"
-    ],
-    "assertionMethod": [
-        "did:web:ashwini-aher.github.io#key-1"
+        "did:web:abc.abc.com#key-1"
     ],
     "verificationMethod": [
         {
-            "id": "did:web:ashwini-aher.github.io#key-1",
+            "id": "did:web:abc.abc.com#key-1",
             "type": "Ed25519VerificationKey2018",
-            "controller": "did:web:ashwini-aher.github.io",
-            "publicKeyBase58": "6GQd1wHm1t9PCAWFXrfr7xcjieb1DLcJGCXCQz6gfqiw"
+            "controller": "did:web:abc.abc.com",
+            "publicKeyBase58": "9qXmnTs2R6kTVwHbgwAnN5AY6DjjLDiJc57BpjurE6Ua"
         }
     ]
 }
